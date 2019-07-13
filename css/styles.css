@@ -61,3 +61,8 @@ h2{
 .intro>h4{
     text-decoration: none;
 }
+#Skills{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
