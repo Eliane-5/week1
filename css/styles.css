@@ -1,0 +1,45 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#nav{
+    height:100%;
+    top:0;
+    left:0;
+    position: fixed;
+    background-color: orangered;
+}
+#nav>a{
+    display: block;
+    padding:2px;
+    text-decoration: none;
+    color:whitesmoke;
+    font-size: 40px;
+    margin:20px
+}
+#nav>a:hover{
+    border-bottom:1px solid white;
+}
+#body{
+    width:70%;
+    top:0;
+    right:0;
+}
+.header{
+    background-image: url("/home/eliane/Desktop/Projects/week1/images/Coding-Becomes-Criminal.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:650px;
+    width:100%;
+    margin:0 auto;
+    padding: 0;
+    position: relative;
+}
+.intro{
+    text-align: center;
+    padding:10px;
+    margin-bottom: 15px;
+    margin-top: 0;
+
+}
