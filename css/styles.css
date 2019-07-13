@@ -43,3 +43,21 @@
     margin-top: 0;
 
 }
+#About-me{
+    text-align: center;
+    line-height: 1.6em;
+}
+.back , .int{
+    text-align: left;
+}
+h3 , h4{
+    text-decoration: underline;
+}
+h2{
+    
+    text-decoration: underline;
+    text-align: center;
+}
+.intro>h4{
+    text-decoration: none;
+}
