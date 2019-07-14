@@ -81,3 +81,6 @@ footer{
 body{
     background-color: orangered;
 }
+span{
+    text-decoration: underline;
+}
