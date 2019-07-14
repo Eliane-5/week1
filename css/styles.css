@@ -61,8 +61,14 @@ h2{
 .intro>h4{
     text-decoration: none;
 }
-#Skills{
+#Skills , #Projects{
     display:flex;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+.first , .second{
+    width:50%;
+}
+.first>a:hover , .second>a:hover{
+    opacity:0.7;
 }
