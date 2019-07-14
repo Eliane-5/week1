@@ -2,11 +2,14 @@
 #### Potfolio website of Kamana Irankunda Eliane, july 14th, 2019
 #### AUTHOR: Kamana Irankunda Eliane
 ## Description
-This is a portfolio website project to exercise creating websites and deplying them on github, thus online. It includes different parts which are:
+This is a portfolio website project to exercise creating websites and deploying them on github, thus online. It includes different parts which are:
 * A brief description about me
 * Some of my skills
-* Some of other projets i have done with links to them in the pictures.
+* Some of other projets i have done.
 * Contact informaton 
+## Setup and Usage
+* The orangered box on the left is the navigation bar, feel free to click on the title of where you want to go.
+* IN the projects section click on the pictures which links directly to the pages if you want to view them.
 ## Languages Used
 * HTML
 * CSS
