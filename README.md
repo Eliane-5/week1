@@ -15,7 +15,9 @@ This is a portfolio website project to exercise creating websites and deploying 
 * CSS
 ## Questions or Feedback
 Please feel free to contact me in case you have any question or you want to give me any constructive feedback at the information provided on the website on this link:
-* 
-### Copyright && License
+* https://eliane-5.github.io/week1/#Contact
+## Copyright && License
 * MIT license
 * Copyright (c) 2019 All rights reserved by **{Kamana Irankunda Eliane}**
+### link to the webpage:
+ https://eliane-5.github.io/week1/.
