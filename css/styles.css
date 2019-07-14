@@ -28,7 +28,7 @@
     background-color: white;
 }
 .header{
-    background-image: url("/home/eliane/Desktop/Projects/week1/images/Coding-Becomes-Criminal.jpg");
+    background-image: url("https://media.wired.com/photos/5cc244c9af643e2f373ebb28/16:9/w_2400,c_limit/Coding-Becomes-Criminal.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     height:650px;
